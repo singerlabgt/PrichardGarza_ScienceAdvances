@@ -1,7 +1,7 @@
 # PrichardGarza_ScienceAdvances
 
 ## Overview
-This code was used to generage figures for Prichard, Garza, et. al., published in Science Advances in 2023. This code generates data structures, graphs, and statistical analyses based on measures from mice exposed to flickering auditory or visual stimuli. Tissue analyses including changes in microglia morphology were measured using the Imaris imaging software to reconstruct cells (Figure 1 & Figure 6) and pNFkB colocalization within cells (Figure 5) were examined in visual cotex tissue samples from one hemisphere. The other hemisphere visual cortex was examined for cytokine levels (Figure 3 & Figure 7) as well as RNA single cell data (Figure 2 & Figure 4). Final versions for all figures for the publication were edited in Adobe Illustrator.
+This code was used to generate figures for Prichard & Garza, et. al., published in Science Advances in 2023. This code generates data structures, graphs, and statistical analyses based on measures from mice exposed to flickering auditory or visual stimuli, and were examined in visual cotex tissue samples from one hemisphere. Tissue analyses including changes in microglia morphology were measured using the Imaris imaging software to reconstruct cells (Figure 1 & Figure 6) and pNFkB colocalization within cells (Figure 5). The other hemisphere of primary visual cortex was examined for cytokine levels (Figure 3 & Figure 7) as well as RNA single cell data (Figure 2 & Figure 4). Final versions for all figures for the publication were edited in Adobe Illustrator.
 
 ## Requirements
 Matlab 2020B
