@@ -33,7 +33,7 @@ These were generated using cytokine data in the attached .csv file.  PLSDA graph
 The scripts also generate individual cytokine bar plots for each of the specified cytokines. These graphs as well as the heatmap are recolored using the folder othercolor. The final colors for the graphs and marks over individual bars to denote significance values were edited using Adobe Illustrator.
 
 ![image](https://github.com/singerlabgt/PrichardGarza_ScienceAdvances/assets/57195922/5e9d04fb-6e47-4aac-b2cd-4ab5e2885c04)
-
+ 
 ### Figure 2
 This figure of immunity gene sets were generated using the code in the Figure 2 Code and Data folder. Data is included in the .csv file within the folder. 
 
