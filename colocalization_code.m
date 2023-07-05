@@ -3,7 +3,7 @@ clf; %clears current figure
 disp('making graphs now');
 % 
 % % set path to save to
-% figpathname = ('T:\singer\Ashley\ProcessedData\Figures\');
+% figpathname = (''); %add path location here and turn on line if desired
 % addpath(figurepathname);
 
 %% set up paths
